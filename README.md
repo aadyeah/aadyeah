@@ -15,9 +15,9 @@
   <a href="mailto:aadya1904pandey@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-155E63?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=2DD4BF&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/your-username?style=flat-square&color=0E7490&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/github/stars/your-username?style=flat-square&color=06B6D4&label=STARS&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=aadyeah&style=flat-square&color=2DD4BF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followersaadyeah?style=flat-square&color=0E7490&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/github/stars/aadyeah?style=flat-square&color=06B6D4&label=STARS&logo=github"/>
 
 </div>
 
