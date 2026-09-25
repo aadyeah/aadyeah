@@ -1,5 +1,18 @@
 <div align="center">
 
+<!-- Header Capsule with Twinkling Animation & Custom Cyber Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=Aadya%20Pandey&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Mechanical%20Engineer%20%E2%9C%A7%20Full-Stack%20Dev%20%E2%9C%A7%20Vision%20Hacker&descAlignY=58&descSize=20"/>
+
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2DD4BF&background=00000000&center=true&vCenter=true&width=650&lines=B.Tech+Mechanical+%26+Automation+%40+IGDTUW;Building+aesthetic+MERN+Stack+applications;Training+YOLO+v8+Computer+Vision+Models;Surviving+bugs+and+building+things;fueled+by+coffee,+cats,+and+code+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
+</a>
+
+
+
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,17,12&height=180&section=header&text=Aadya%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20%26%20Automation%20Engineering%20Student%20%7C%20Builder&descAlignY=58&descSize=18"/>
 
 <h3>B.Tech Student · MERN Stack Builder · Computer Vision Enthusiast</h3>
@@ -41,7 +54,7 @@
 
 ```yaml
 currently:
-  studying: "Mechanical and Automation Engineering, IGDTUW"
+  studying: " BTECH in Mechanical and Automation Engineering, IGDTUW"
   building: "MERN full-stack projects"
   practicing: "Data Structures & Algorithms in Java"
   exploring: "Computer Vision with YOLO v8 & OpenCV"
@@ -58,7 +71,7 @@ currently:
 | **Degree** | B.Tech, Mechanical and Automation Engineering |
 | **Institute** | Indira Gandhi Delhi Technical University for Women (IGDTUW) |
 | **Year** | 2nd Year |
-| **Duration** | 2024 – 2028 |
+| **Duration** | 2025 – 2029|
 | **Location** | New Delhi, India |
 
 </div>
@@ -248,7 +261,7 @@ currently:
 </p>
 
 <p align="center">
-  <a href="https://github.com/aadyeah?tab=followers"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social"/></a>
+  <a href="https://github.com/aadyeah?tab=followers"><img src="https://img.shields.io/github/followers/aadyeah?label=Followers&style=social"/></a>
 </p>
 
 <br/>
