@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <!-- Header Capsule with Twinkling Animation & Custom Cyber Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=Aadya%20Pandey&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Mechanical%20Engineer%20%E2%9C%A7%20Full-Stack%20Dev%20%E2%9C%A7%20Vision%20Hacker&descAlignY=58&descSize=20"/>
