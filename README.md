@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-handle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-134E4A?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/your-handle" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0F766E?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-155E63?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://leetcode.com/u/aadya__19/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/aadyeah" target="_blank"><img src="https://img.shields.io/badge/GitHub-134E4A?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/aadya__19" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0F766E?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:aadya1904pandey@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-155E63?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=2DD4BF&label=PROFILE+VIEWS"/>
@@ -196,11 +196,11 @@ currently:
 
 <div align="center">
 
-<a href="https://leetcode.com/u/your-handle"><img src="https://img.shields.io/badge/LeetCode-60%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://leetcode.com/u/aadya__19"><img src="https://img.shields.io/badge/LeetCode-60%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/your-handle?theme=light&font=Karma&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/aadya__19?theme=light&font=Karma&ext=heatmap" />
 
 </div>
 
@@ -209,8 +209,8 @@ currently:
 ## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadyeah&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadyeah&layout=compact&hide_border=true"/>
 </p>
 
 <br/>
@@ -218,7 +218,7 @@ currently:
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadyeah&hide_border=true"/>
 </p>
 
 <br/>
@@ -226,7 +226,7 @@ currently:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&bg_color=0D1117&color=2DD4BF&line=22D3EE&point=C9D1D9"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadyeah&theme=react-dark&hide_border=true&bg_color=0D1117&color=2DD4BF&line=22D3EE&point=C9D1D9"/>
 </p>
 
 <br/>
@@ -234,7 +234,7 @@ currently:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/aadyeah/aadyeah/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <br/>
@@ -242,13 +242,13 @@ currently:
 ## 📧 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-handle" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/your-username" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/aadya-pandey-854bb8377/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/aadyeah" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+  <a href="mailto:aadya1904pandey@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username?tab=followers"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social"/></a>
+  <a href="https://github.com/aadyeah?tab=followers"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social"/></a>
 </p>
 
 <br/>
