@@ -222,8 +222,8 @@ currently:
 ## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadyeah&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadyeah&layout=compact&hide_border=true"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadyeah&theme=default" alt="aadyeah's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadyeah&theme=default" alt="aadyeah's top languages" />
 </p>
 
 <br/>
@@ -239,7 +239,7 @@ currently:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadyeah&theme=react-dark&hide_border=true&bg_color=0D1117&color=2DD4BF&line=22D3EE&point=C9D1D9"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyeah&theme=github-compact&hide_border=true" alt="aadyeah's contribution activity graph" />
 </p>
 
 <br/>
