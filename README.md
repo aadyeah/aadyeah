@@ -9,12 +9,6 @@
 </a>
 
 
-
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,17,12&height=180&section=header&text=Aadya%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20%26%20Automation%20Engineering%20Student%20%7C%20Builder&descAlignY=58&descSize=18"/>
-
 <h3>B.Tech Student · MERN Stack Builder · Computer Vision Enthusiast</h3>
 
 <p align="center">
@@ -239,7 +233,7 @@ currently:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyeah&theme=github-compact&hide_border=true" alt="aadyeah's contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadyeah&theme=default" alt="aadyeah's contribution activity graph" />
 </p>
 
 <br/>
