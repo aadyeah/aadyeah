@@ -125,12 +125,12 @@ currently:
 
 <div align="center">
 
-| Repository | Description |
-|---|---|
-| 🌐 **[your-mern-project](https://github.com/your-username/your-mern-project)** | Full-stack MERN web app — CRUD functionality, REST API, responsive React UI |
-| 🎯 **[yolo-object-detection](https://github.com/your-username/yolo-object-detection)** | YOLO v8 object detection in Python — the project behind your Adobe Aithon win |
-| 🧮 **[dsa-practice](https://github.com/your-username/dsa-practice)** | Java solutions to 60+ LeetCode problems — arrays, two pointers, strings, sorting |
-| 📄 **[your-username](https://github.com/your-username/your-username)** | This profile README |
+| Repository | Tech Stack | Description |
+| :--- | :---: | :--- |
+| 🧠 [MindBloom-Mental-Wellness](https://github.com/aadyeah/MindBloom-Mental-Wellness) | `Jupyter Notebook` | Mental wellness analysis and interactive data insights |
+| 📸 [Photobooth](https://github.com/aadyeah/Photobooth) | `HTML` · `CSS` · `JS` | Interactive web-based photobooth application |
+| 🧩 [sudoku-validator](https://github.com/aadyeah/sudoku-validator) | `Python` | Automated Sudoku board validation algorithm |
+| 🌐 [Portfolio-](https://github.com/aadyeah/Portfolio-) | `HTML` · `CSS` · `JS` | Personal developer portfolio website |
 
 </div>
 
@@ -140,13 +140,20 @@ currently:
 
 <br/>
 
-### 1. Full-Stack MERN Web App
+### 1. [🧠 MindBloom - Mental Wellness Platform](https://github.com/aadyeah/MindBloom-Mental-Wellness)
 
-`React` `Node.js` `Express` `MongoDB`
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain-Mental%20Health%20%26%20Data%20Science-007EC6?style=for-the-badge" />
+</p>
 
-- Built a web application with complete **CRUD functionality** and a responsive **React** UI
-- Created REST API endpoints with **Express** and designed database schemas in **MongoDB**
-- Tested and validated all API requests and responses with **Postman**
+> MindBloom is a data-driven mental wellness application designed to analyze, track, and provide interactive insights into psychological well-being and emotional health patterns.
+
+* **Key Features & Architecture**
+  * **Data Analysis & Visualization:** Leverages Jupyter Notebooks and Python data science libraries (Pandas, NumPy, Matplotlib, Seaborn) to process mental health datasets and visualize behavioral trends.
+  * **Interactive Insights:** Evaluates user data to identify stress factors, mood correlations, and wellness trajectories through exploratory data analysis (EDA).
+  * **Holistic Approach:** Built with a focus on empathy and accessibility, bridging technology with mental health awareness.
+* **Tech Stack:** Python, Jupyter Notebook, Pandas, Seaborn, Data Visualization
 
 <br/>
 
@@ -165,7 +172,7 @@ currently:
 
 `Java`
 
-- Solved **60+ LeetCode problems** in Java, focused on arrays, two pointers, strings, and searching/sorting
+- Solved **90+ LeetCode problems** in Java, focused on arrays, two pointers, strings, and searching/sorting
 - Prioritized clean code structure and basic time/space complexity optimization
 
 <br/>
