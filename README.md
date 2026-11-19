@@ -12,7 +12,7 @@
 <h3>B.Tech Student · MERN Stack Builder · Computer Vision Enthusiast</h3>
 
 <p align="center">
-<b>B.Tech Mechanical & Automation</b> @IGDTUW New Delhi | 🏆 <b>Adobe Aithon Hackathon 2023 Winner</b> | Building with <b>React · Node.js · MongoDB (MERN)</b> | Exploring <b>Computer Vision</b> with <b>YOLO v8 · OpenCV</b> | 🥇 <b>"Best Intern of the Season"</b> @Rolta Incubation Center, MANIT Bhopal | <b>60+ LeetCode Problems</b> in Java | Design & Technical Member @<b>CodeBenders Society</b>
+<b>B.Tech Mechanical & Automation</b> @IGDTUW New Delhi | 🏆 <b>Adobe Aithon Hackathon 2023 Winner</b> | Building with <b>React · Node.js · MongoDB (MERN)</b> | Exploring <b>Computer Vision</b> with <b>YOLO v8 · OpenCV</b> | 🥇 <b>"Best Intern of the Season"</b> @Rolta Incubation Center, MANIT Bhopal | <b>120+ LeetCode Problems</b> in Java | Design & Technical Member @<b>CodeBenders Society</b>
 </p>
 
 <p align="center">
@@ -172,7 +172,7 @@ currently:
 
 `Java`
 
-- Solved **90+ LeetCode problems** in Java, focused on arrays, two pointers, strings, and searching/sorting
+- Solved **120+ LeetCode problems** in Java, focused on arrays, two pointers, strings, and searching/sorting
 - Prioritized clean code structure and basic time/space complexity optimization
 
 <br/>
