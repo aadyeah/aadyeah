@@ -38,7 +38,7 @@
 
 🌐 Comfortable across the MERN stack — React, Node.js, Express, MongoDB, REST APIs — with hands-on project work covering full CRUD and API testing
 
-❤️ Practicing DSA in Java — 60+ LeetCode problems solved, focused on arrays, two pointers, strings, and searching/sorting
+❤️ Practicing DSA in Java — 120+ LeetCode problems solved, focused on arrays, two pointers, strings, and searching/sorting
 
 🎨 Design & Technical Member, CodeBenders Society (IGDTUW) — contributes to graphic design, event promo material, and tech session organizing
 
